@@ -35,4 +35,4 @@ betterlogs.trace("Hello Word");
 
 
 # Preview
-![Preview](image.png)
+![Preview](https://telegra.ph/file/b76a455d6bccb7d1640a3.png)
