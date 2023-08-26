@@ -1,0 +1,32 @@
+{
+  "name": "betterlogs.js",
+  "version": "1.0.0",
+  "description": "Upgrade your terminal logs with betterlogs.js",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "betterlogs",
+    "console-logs",
+    "console",
+    "logs",
+    "terminallogs",
+    "terminal",
+    "logs",
+    "colors",
+    "moment",
+    "logging",
+    "logs",
+    "message",
+    "logs",
+    "events",
+    "logger"
+  ],
+  "author": "MGalaCyber",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "box-console": "^2.0.0"
+  }
+}
