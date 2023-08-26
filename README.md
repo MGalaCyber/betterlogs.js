@@ -1,17 +1,20 @@
 # betterlogs.js
 Upgrade your terminal logs with betterlogs.js
 
+# Install
 ```
-npm install discord.js
-yarn add discord.js
-pnpm add discord.js
+npm install betterlogs.js
+yarn add betterlogs.js
+pnpm add betterlogs.js
 ```
 
+# Import
 ```
 const betterlogs = require("betterlogs.js");
-inport betterlogs from betterlogs.js
+import betterlogs from "betterlogs.js"
 ```
 
+# Configuration
 ```js
 betterlogs.warn("Hello Word");
 betterlogs.danger("Hello Word");
@@ -29,3 +32,7 @@ betterlogs.notice("Hello Word");
 betterlogs.critical("Hello Word");
 betterlogs.trace("Hello Word");
 ```
+
+
+# Preview
+![Preview](image.png)
