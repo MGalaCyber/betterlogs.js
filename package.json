@@ -1,6 +1,6 @@
 {
   "name": "betterlogs.js",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "description": "Upgrade your terminal logs with betterlogs.js",
   "main": "index.js",
   "typings": "index.d.ts",
