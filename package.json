@@ -1,6 +1,6 @@
 {
   "name": "betterlogs.js",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "Upgrade your terminal logs with betterlogs.js",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -28,6 +28,6 @@
   "author": "MGalaCyber",
   "license": "Apache-2.0",
   "dependencies": {
-    "box-console": "^2.0.0"
+    "string-width": "^2.1.1"
   }
 }
