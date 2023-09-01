@@ -11,7 +11,7 @@ pnpm add betterlogs.js
 # Import
 ```
 const betterlogs = require("betterlogs.js");
-import betterlogs from "betterlogs.js"
+import betterlogs from "betterlogs.js";
 ```
 
 # Configuration
@@ -25,42 +25,70 @@ import betterlogs from "betterlogs.js"
 # Example
 ## Using type (`1`)
 ```js
-betterlogs.warn("1", "Hello Word");
-betterlogs.danger("1", "Hello Word");
-betterlogs.info("1", "Hello Word");
-betterlogs.error("1", "Hello Word");
-betterlogs.debug("1", "Hello Word");
-betterlogs.ready("1", "Hello Word");
-betterlogs.database("1", "Hello Word");
-betterlogs.event("1", "Hello Word");
-betterlogs.heartbeat("1", "Hello Word");
-betterlogs.shard("1", "Hello Word");
-betterlogs.cluster("1", "Hello Word");
-betterlogs.command("1", "Hello Word");
-betterlogs.notice("1", "Hello Word");
-betterlogs.critical("1", "Hello Word");
-betterlogs.trace("1", "Hello Word");
+betterlogs.debug("1", "Hello World!");
+betterlogs.error("1", "Hello World!");
+betterlogs.info("1", "Hello World!");
+betterlogs.warn("1", "Hello World!");
+betterlogs.trace("1", "Hello World!");
+betterlogs.verbose("1", "Hello World!");
+betterlogs.success("1", "Hello World!");
+betterlogs.notice("1", "Hello World!");
+betterlogs.critical("1", "Hello World!");
+betterlogs.alert("1", "Hello World!");
+betterlogs.emergency("1", "Hello World!");
+betterlogs.progress("1", "Hello World!");
+betterlogs.update("1", "Hello World!");
+betterlogs.query("1", "Hello World!");
+betterlogs.performance("1", "Hello World!");
+betterlogs.activity("1", "Hello World!");
+betterlogs.authorization("1", "Hello World!");
+betterlogs.network("1", "Hello World!");
+betterlogs.security("1", "Hello World!");
+betterlogs.database("1", "Hello World!");
+betterlogs.audit("1", "Hello World!");
+betterlogs.danger("1", "Hello World!");
+betterlogs.ready("1", "Hello World!");
+betterlogs.event("1", "Hello World!");
+betterlogs.heartbeat("1", "Hello World!");
+betterlogs.shard("1", "Hello World!");
+betterlogs.cluster("1", "Hello World!");
+betterlogs.command("1", "Hello World!");
+betterlogs.message("1", "Hello World!");
 ```
 ## Preview
-![Preview](https://telegra.ph/file/b76a455d6bccb7d1640a3.png)
+![Preview](https://telegra.ph/file/93b8b4ffa14b37cde11e1.png)
 
 ## Using type (`2`)
 ```js
-betterlogs.warn("2", "Hello Word");
-betterlogs.danger("2", "Hello Word");
-betterlogs.info("2", "Hello Word");
-betterlogs.error("2", "Hello Word");
-betterlogs.debug("2", "Hello Word");
-betterlogs.ready("2", "Hello Word");
-betterlogs.database("2", "Hello Word");
-betterlogs.event("2", "Hello Word");
-betterlogs.heartbeat("2", "Hello Word");
-betterlogs.shard("2", "Hello Word");
-betterlogs.cluster("2", "Hello Word");
-betterlogs.command("2", "Hello Word");
-betterlogs.notice("2", "Hello Word");
-betterlogs.critical("2", "Hello Word");
-betterlogs.trace("2", "Hello Word");
+betterlogs.debug("2", "Hello World!");
+betterlogs.error("2", "Hello World!");
+betterlogs.info("2", "Hello World!");
+betterlogs.warn("2", "Hello World!");
+betterlogs.trace("2", "Hello World!");
+betterlogs.verbose("2", "Hello World!");
+betterlogs.success("2", "Hello World!");
+betterlogs.notice("2", "Hello World!");
+betterlogs.critical("2", "Hello World!");
+betterlogs.alert("2", "Hello World!");
+betterlogs.emergency("2", "Hello World!");
+betterlogs.progress("2", "Hello World!");
+betterlogs.update("2", "Hello World!");
+betterlogs.query("2", "Hello World!");
+betterlogs.performance("2", "Hello World!");
+betterlogs.activity("2", "Hello World!");
+betterlogs.authorization("2", "Hello World!");
+betterlogs.network("2", "Hello World!");
+betterlogs.security("2", "Hello World!");
+betterlogs.database("2", "Hello World!");
+betterlogs.audit("2", "Hello World!");
+betterlogs.danger("2", "Hello World!");
+betterlogs.ready("2", "Hello World!");
+betterlogs.event("2", "Hello World!");
+betterlogs.heartbeat("2", "Hello World!");
+betterlogs.shard("2", "Hello World!");
+betterlogs.cluster("2", "Hello World!");
+betterlogs.command("2", "Hello World!");
+betterlogs.message("2", "Hello World!");
 ```
 ## Preview
-![Preview](https://telegra.ph/file/7db8ae4b9ee60e1302e93.png)
+![Preview](https://telegra.ph/file/0e542be6b3694e5878163.png)
